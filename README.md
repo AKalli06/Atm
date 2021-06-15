@@ -1,3 +1,2 @@
 # Automated teller machine
-=>An advanced type of Atm 
-=>A lot features are now available
+An advanced type of Atm with a lot of features build in
