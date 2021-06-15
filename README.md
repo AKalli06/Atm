@@ -1,2 +1,3 @@
-# Atm
-=>A very old project of mine 
+# Automated teller machine
+=>An advanced type of Atm 
+=>A lot features are now available
