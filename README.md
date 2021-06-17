@@ -1,3 +1,2 @@
 # Automated teller machine
-An old project i have found
-a
+An old project i found
