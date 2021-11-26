@@ -1,2 +1,1 @@
-# Automated teller machine
 
